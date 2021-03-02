@@ -6,13 +6,13 @@ function renderSliderItems(count) {
   
       const elementDesktop = $(`
         <div class="prm-slider-1__item">
-          <img src="../img/slider/slider${i}.jpg" alt="" class="prm-mhide">
+          <img src="img/slider/slider${i}.jpg" alt="" class="prm-mhide">
         </div>
       `);
   
       const elementMobile = $(`
         <div class="prm-slider-mob-item">
-          <img src="../img/slider/slider${i}m.jpg" alt="">
+          <img src="img/slider/slider${i}m.jpg" alt="">
         </div>
       `);
   
