@@ -1,5 +1,5 @@
 .prm-header {
-    background: url(../img/header.jpg) center no-repeat;
+    background: url(img/header.jpg) center no-repeat;
     display: flex;
     align-items: center;
     position: relative;
@@ -258,7 +258,7 @@ html {
     box-shadow: 0 6px 6px 0 rgba(0,0,0,.12);
 }
 .prm-slider-arrow__left {
-  background-image: url(../img/slider/arrow-left.svg);
+  background-image: url(img/slider/arrow-left.svg);
   left: -66px;
   background-position: 18px center;
 }
@@ -280,7 +280,7 @@ html {
   box-shadow: 0 6px 6px 0 rgba(0,0,0,.12);
 }
 .prm-slider-arrow__right {
-  background-image: url(../img/slider/arrow.svg);
+  background-image: url(img/slider/arrow.svg);
   right: -66px;
   background-position: 21px center;
 }
@@ -423,13 +423,13 @@ html {
 }
   @media (width: 900px) and (height: 600px) {
     .prm-header {
-      background: url(../img/900x600header.jpg) center no-repeat;
+      background: url(img/900x600header.jpg) center no-repeat;
     }
   }
   
   @media (width: 560px) and (height: 400px) {
     .prm-header {
-      background: url(../img/560x400header.jpg) center no-repeat;
+      background: url(img/560x400header.jpg) center no-repeat;
     }
   }
   @media (max-width: 999px) {
